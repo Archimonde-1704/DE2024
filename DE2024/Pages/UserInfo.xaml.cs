@@ -30,5 +30,11 @@ namespace DE2024.Pages
             MainWindow mainWindow = Window.GetWindow(this) as MainWindow;
             mainWindow.frame.Navigate(new Login());
         }
+
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            Singleton.DB.User.ToList();
+            table.ItemsSource = Singleton.DB.User.Local;
+        }
     }
 }

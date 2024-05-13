@@ -6,11 +6,12 @@
       xmlns:local="clr-namespace:DE2024.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="UserInfo">
+      Title="UserInfo"
+      Loaded="Page_Loaded">
 
     <Grid>
         <StackPanel>
-            <DataGrid></DataGrid>
+            <DataGrid x:Name="table"/>
             <Button Content="Выход" Click="Button_Click"/>
         </StackPanel>
     </Grid>

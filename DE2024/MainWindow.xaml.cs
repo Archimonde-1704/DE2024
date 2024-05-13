@@ -24,5 +24,10 @@ namespace DE2024
         {
             InitializeComponent();
         }
+
+        private void Window_Closed(object sender, EventArgs e)
+        {
+            Singleton.DB.SaveChanges();
+        }
     }
 }

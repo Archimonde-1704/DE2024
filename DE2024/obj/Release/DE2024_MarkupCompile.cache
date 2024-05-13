@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\ktas1\OneDrive\Рабочий стол\DE2024\DE2024\obj\Debug\
+C:\Users\ktas1\OneDrive\Рабочий стол\DE2024\DE2024\obj\Release\
 DE2024
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\ktas1\OneDrive\Рабочий стол\DE2024\DE2024\App.xaml
 4-647843459
 2-1957146511
@@ -16,5 +16,5 @@ C:\Users\ktas1\OneDrive\Рабочий стол\DE2024\DE2024\App.xaml
 181477370653
 MainWindow.xaml;Pages\Login.xaml;Pages\RoleInfo.xaml;Pages\UserInfo.xaml;
 
-False
+True
 
