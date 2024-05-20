@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ktas1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DE2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E75CFD9C-A5BA-4EB6-A1FA-A02458101289}|DE2024\\DE2024.csproj|C:\\Users\\ktas1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DE2024\\de2024\\pages\\userinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E75CFD9C-A5BA-4EB6-A1FA-A02458101289}|DE2024\\DE2024.csproj|solutionrelative:de2024\\pages\\userinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75CFD9C-A5BA-4EB6-A1FA-A02458101289}|DE2024\\DE2024.csproj|c:\\users\\ktas1\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\de2024\\de2024\\pages\\userinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75CFD9C-A5BA-4EB6-A1FA-A02458101289}|DE2024\\DE2024.csproj|solutionrelative:de2024\\pages\\userinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75CFD9C-A5BA-4EB6-A1FA-A02458101289}|DE2024\\DE2024.csproj|C:\\Users\\ktas1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DE2024\\de2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75CFD9C-A5BA-4EB6-A1FA-A02458101289}|DE2024\\DE2024.csproj|solutionrelative:de2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75CFD9C-A5BA-4EB6-A1FA-A02458101289}|DE2024\\DE2024.csproj|C:\\Users\\ktas1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DE2024\\de2024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E75CFD9C-A5BA-4EB6-A1FA-A02458101289}|DE2024\\DE2024.csproj|solutionrelative:de2024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ktas1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DE2024\\DE2024\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DE2024\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ktas1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DE2024\\DE2024\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DE2024\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:44:58.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ktas1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DE2024\\DE2024\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DE2024\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ktas1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DE2024\\DE2024\\MainWindow.xaml",
+              "RelativeToolTip": "DE2024\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T14:44:39.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInfo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ktas1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DE2024\\DE2024\\Pages\\UserInfo.xaml.cs",
+              "RelativeDocumentMoniker": "DE2024\\Pages\\UserInfo.xaml.cs",
+              "ToolTip": "C:\\Users\\ktas1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DE2024\\DE2024\\Pages\\UserInfo.xaml.cs",
+              "RelativeToolTip": "DE2024\\Pages\\UserInfo.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:42:58.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInfo.xaml",
+              "DocumentMoniker": "C:\\Users\\ktas1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DE2024\\DE2024\\Pages\\UserInfo.xaml",
+              "RelativeDocumentMoniker": "DE2024\\Pages\\UserInfo.xaml",
+              "ToolTip": "C:\\Users\\ktas1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DE2024\\DE2024\\Pages\\UserInfo.xaml",
+              "RelativeToolTip": "DE2024\\Pages\\UserInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T14:41:47.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
